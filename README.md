@@ -4,7 +4,7 @@
 
 ## Team members
 
-NameA (GitHubUserA), NameB (GitHubUserB)
+Xaver Gross, NameB (GitHubUserB)
 
 ## Project decription
 
