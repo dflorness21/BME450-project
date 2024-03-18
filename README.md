@@ -1,10 +1,9 @@
 # Title
-
-“My super-cool project”
+Project Name
 
 ## Team members
 
-Xaver Gross, NameB (GitHubUserB)
+Xaver Gross, Daniel Florness
 
 ## Project decription
 
