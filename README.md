@@ -1,5 +1,5 @@
 # Title
-Comparing classification models
+Skin Lesion Classification
 
 ## Team members
 
