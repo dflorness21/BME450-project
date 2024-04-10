@@ -18,10 +18,13 @@ The code was run and tested using the following versions:
 - Pytorch==X.X
 - pandas==X.X
 
-## Code Structure
 
-## Analysis
+## Architectures for Multiclass Image Classification
+### Convolutional Neural Networks
+### Transformers
 
-## Results
+## Time Plan
+![Plan](plan.png)
+
 
 
